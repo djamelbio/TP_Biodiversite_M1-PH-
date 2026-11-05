@@ -1,0 +1,7 @@
+ Description des données
+Le fichier observations.csv contient des données fictives.
+## Colonnes
+- site : identifiant du site d'observation
+- espece : identifiant de l'espèce
+- nombre_individus : nombre d'individus observés
+Les effectifs sont exprimés en nombre d'individus.
